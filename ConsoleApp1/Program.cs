@@ -2,7 +2,8 @@
 using System;
 
 string name = "Dmytro";
-Console.WriteLine("My name is " + name + "!");
-
+string secondName = "Marilovtsev";
+Console.WriteLine("My name is " + name + "!"); //concatanation
+Console.WriteLine($"My second name is {secondName}"); //interpolation
 
 Console.Read();
