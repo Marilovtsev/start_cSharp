@@ -2,4 +2,4 @@
 using System;
 
 string name;
-string proffesion = "Automation";
+string proffesion = "Automations";
