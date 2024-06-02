@@ -34,5 +34,5 @@ Console.WriteLine(str2);
 Console.WriteLine(str3);
 Console.WriteLine(str4);
 
-string stringWithQuotes = "This is string with \"double quotes\"";
+string stringWithQuotes = "This is string with \"double quotes\"!";
 Console.WriteLine(stringWithQuotes);
