@@ -35,4 +35,6 @@ Console.WriteLine(str3);
 Console.WriteLine(str4);
 
 string stringWithQuotes = "This is string with \"double quotes\"!";
-Console.WriteLine(stringWithQuotes);
+string stringWithEnter = "THis is some \nText";
+Console.WriteLine(stringWithEnter);
+Console.WriteLine(stringWithQuotes.Length);
