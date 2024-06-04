@@ -8,11 +8,9 @@ namespace ConsoleApp1
 {
     public enum WeekDay
     {
-        Monday,
-        Tuesday,
-        Wednesday,
-        Thursday,
-        Friday,
-        Saturday
+        Red,
+        Green,
+        Blue,
+        Yellow
     }
 }
