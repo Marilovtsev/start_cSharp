@@ -38,3 +38,6 @@ string stringWithQuotes = "This is string with \"double quotes\"!";
 string stringWithEnter = "THis is some \nText";
 Console.WriteLine(stringWithEnter);
 Console.WriteLine(stringWithQuotes.Length);
+
+bool isAlive =  true;
+bool canWork = false;
